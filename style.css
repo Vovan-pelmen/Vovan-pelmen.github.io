@@ -1,0 +1,122 @@
+*{
+    margin:0;
+}
+body{
+    background-image: url(11.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+header{
+    padding: 10px 5%;
+    background-color:white;
+    position:fixed;
+    width: 100%;
+}
+header>*{
+    display: inline-block;
+    width:450px;
+    color:white;
+}
+.pustota{
+    width:10%;
+    
+}
+header a{
+    text-decoration: none;
+    color: black;
+    margin:0 10px;
+}
+.banner{
+    padding: 20% 5%;
+    color: white;
+    font-size: 30px;
+}
+.post{
+    padding:100px 5%;
+    text-align: center;
+    background-color:white;
+}
+.post>*{
+    display: inline-block;
+    width:450px;
+    font-size:30px;
+    vertical-align: middle;
+}
+.razryv{
+    height:700px;
+}
+article{
+    padding:6% 16%;
+    background-image: url(c.png);
+    background-attachment: fixed;
+    
+}
+article>div{
+    padding: 100px;
+    background-color: white;
+    font-size:30px;
+    text-align: center;
+    border: 6px solid black;
+}
+footer{
+    background-color:white;
+    padding:10px 0;
+    text-align: center;
+    color:white;
+}
+.a{
+    position:absolute;
+    right:25%;
+    color: white;
+    
+}
+p{
+   font-style: italic; 
+   background-color:black;
+   color:green;
+
+
+}
+
+h1{
+    color:green;
+}
+#info{
+    background-color:black;
+   color:green;
+
+}
+.ii{ background-color:white;
+   color:black;
+    
+}
+img{
+    width:400px;
+    height:350px;
+    
+}
+a{
+    display: inline-block;
+    
+    background-color:#FFAD00;
+    text-decoration:none;
+    padding: 6px 16px;
+    border-radius:3px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
